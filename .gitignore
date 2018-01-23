@@ -1,1 +1,4 @@
 .claspath
+node_modules/
+*.txt
+!secondo.txt
