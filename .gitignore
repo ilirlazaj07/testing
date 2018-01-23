@@ -1,4 +1,4 @@
 .claspath
 node_modules/
 *.txt
-!secondo.txt
+!conflitto.txt
