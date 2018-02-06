@@ -2,3 +2,4 @@
 node_modules/
 *.txt
 !conflitto.txt
+!nuovo_vins2.txt
